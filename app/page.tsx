@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-br from-blue-100 via-white to-pink-100 flex flex-col items-center justify-center px-4">
       <header className="w-full max-w-4xl py-10 text-center">
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800">
-          Bouthayna & Aya BOUDAD  CI/CD Project 
+          Bouthayna BEKKOUCH & Aya BOUDAD  CI/CD Project 
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           A simple website to learn DevOps using Next.js, Tailwind CSS, and JENKINS.
